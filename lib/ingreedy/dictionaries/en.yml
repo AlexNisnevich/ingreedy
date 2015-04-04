@@ -103,6 +103,18 @@
   :stick:
     - "stick"
     - "sticks"
+  :portion:
+    - "portion"
+    - "portions"
+  :medium:
+    - "medium"
+    - "med"
+  :large:
+    - "large"
+    - "extra large"
+  :small:
+    - "small"
+    - "extra small"
 :numbers:
   a: 1
   an: 1
