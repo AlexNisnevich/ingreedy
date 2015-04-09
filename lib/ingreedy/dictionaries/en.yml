@@ -115,6 +115,9 @@
   :small:
     - "small"
     - "extra small"
+  :strip:
+    - "strip"
+    - "strips"
 :numbers:
   a: 1
   an: 1
